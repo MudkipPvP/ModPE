@@ -1,7 +1,7 @@
 /*UltimateSinglePlayerCommands*/
 /*Do NOT redestribute*/
 //What version is the user running?
-var version = "1.7 build 8 (Snapshot)";
+var version = "1.7 build 9 (Snapshot)";
 //New version available?
 var newVersion;
 //Arrays to store the /give names and IDs
@@ -531,7 +531,7 @@ function updateScript() {
 function newLevel()
 {
 clientMessage("§9[USPC]§6UltimateSinglePlayerCommands has been enabled with success!");
-clientMessage("§6§lVersion " + ChatColor.GREEN + "1.7 build 8 SNAPSHOT");
+clientMessage("§6§lVersion " + ChatColor.GREEN + "1.7 build 9 SNAPSHOT");
 clientMessage("§9[USPC]§7Mod coded by MrMudkipPvP");
 clientMessage("§9[USPC]§cUse /help");
  }
